@@ -1,0 +1,50 @@
+body{
+  background-color: white;
+  color:rgb(0, 128, 128)3, 171, 253);
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.subject{
+  background-color:  #002fff ;
+  width:50%;
+  color: white;
+  height:10%;
+  padding: 25px;
+  margin-bottom:10px;
+  font-size: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-radius:10px;
+	text-align:center;
+}
+.subjects{
+	text-align:center;
+}
+button{
+  background-color:  #a4c6f3 ;
+  color: white;
+  height:50px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-right:20px;
+	border:0px;
+}
+.header{
+	text-align:center;
+	background-color:  #4acad3 ;
+}
+button:hover {
+  background-color: rgb(42, 130, 189);
+}
+
+.heading{
+  padding: 25px;
+}
+.subjects{
+	padding: 40px;
+  width: 60%;
+  border-radius: 10px;
+	background-color: #ff8c0067;
+	margin:auto;
+}
